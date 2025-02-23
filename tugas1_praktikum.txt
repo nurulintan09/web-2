@@ -1,0 +1,37 @@
+1. Jelaskan apa yang dimaksud dengan dokumen root ? 
+=> dokumen root adalah direktori utama yang digunakan oleh server web untuk menyimpan file 
+dan halaman web yang akan di akses oleh pengguna melalui browser
+
+2. Pada apache web server, apakah dokumen root harus terletak dalam direktori 
+C:\xampp\htdocs ? Jelaskan jawaban anda
+=> Tidak harus, pengguna dapat mengubah lokasi dokumen root dengan mengedit file konfigurasi apache(httpd.conf) 
+dengan mengubah direktif dokumen root 
+
+3. Jelaskan apa yang dimaksud dengan perintah git : init, clone, remote,  add, commit, push 
+dan checkout 
+=>  git clone: Mengunduh salinan repository yang sudah ada dari remote repository.
+    git remote: Mengelola daftar repository remote yang dikaitkan dengan repository lokal.
+    git add: Menambahkan perubahan file ke staging area sebelum dilakukan commit.
+    git commit: Menyimpan perubahan yang telah ditambahkan ke dalam repository dengan pesan deskriptif.
+    git push: Mengunggah perubahan yang telah dikomit ke repository remote.
+    git checkout: Beralih antara branch atau mengembalikan file ke versi tertentu.
+
+4. Jelaskan perbedaan antara GitHub dan GitLab 
+=>  GitHub adalah platform berbasis cloud yang digunakan untuk menyimpan dan mengelola repository Git. 
+    GitHub lebih berfokus pada kolaborasi komunitas dan memiliki integrasi dengan banyak alat CI/CD pihak ketiga.
+    GitLab adalah platform DevOps yang mencakup manajemen repository Git serta alat CI/CD bawaan. 
+    GitLab lebih cocok untuk pengelolaan proyek internal dengan kontrol yang lebih ketat.
+
+5. Apa bedanya variable user dengan variable system ?
+=>  Variabel user hanya berlaku untuk akun pengguna tertentu di dalam sistem operasi.
+    Variabel system berlaku secara global untuk semua pengguna dalam sistem operasi.
+
+6. Apa persamaan variable system dengan variable constant ?
+=>Keduanya bersifat tetap dan digunakan untuk menyimpan nilai yang tidak berubah
+ selama proses eksekusi program atau sistem berjalan
+
+
+
+  
+
+ 
